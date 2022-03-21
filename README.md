@@ -5,7 +5,13 @@ Projeto de Cardápio Digital para restaurantes.
 Diciplina INE5646-03238B (20212) - Programação para Web. 
 Universidade Federal de Santa Catarina - UFSC.
  
-Desenvolvido pelos alunos Beatriz Valio Weiss (21205057), Bruno Vazquez Lafaiete (20102277), João Pedro Mendonça de Araujo (18102513).
+Desenvolvido pelos alunos:
+
+- Beatriz Valio Weiss (21205057) 
+
+- Bruno Vazquez Lafaiete (20102277)
+
+- João Pedro Mendonça de Araujo (18102513)
 
 --------------------------------------------------------------
 
